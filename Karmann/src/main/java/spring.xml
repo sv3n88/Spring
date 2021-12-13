@@ -14,8 +14,8 @@
 
 	<!-- bean id="vehicle" class="com.sven.Karmann.Car"></bean -->
 
-	<bean id="tyre" class="com.sven.Karmann.Tyre">
-		<property name="brand" value="MRF"></property>
-	</bean>
+	<!-- <bean id="tyre" class="com.sven.Karmann.Tyre">
+		
+	</bean> -->
 
 </beans>
